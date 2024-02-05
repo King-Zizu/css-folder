@@ -1,0 +1,36 @@
+h2{
+    background-color: blue;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+}
+
+/* 
+fontsize
+fontweight
+fontfamly
+fontstyle
+ */
+
+ p{
+    font-size: 17px;
+    font-weight: 500;
+    font-family:'poppins', sans-serif;
+   font-style: italic;
+    
+   
+
+    letter-spacing: 2px;
+    text-transform: lowercase;
+
+
+
+     
+    text-indent: 100px;
+    line-height: 35px;
+    text-decoration: none;
+ }
+ a{
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
